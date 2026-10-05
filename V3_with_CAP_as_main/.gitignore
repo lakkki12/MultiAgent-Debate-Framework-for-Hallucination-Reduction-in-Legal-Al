@@ -14,7 +14,7 @@ ENV/
 .ipynb_checkpoints/
 
 # Data and Cache
-data/
+/data/
 cap_raw_volumes/
 cap_chunks_cache/
 cap_chroma_corpus/
